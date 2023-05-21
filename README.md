@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b> Ashwini Rajendra Abhang.(@Ashu1905) </b>
-- 👀 I’m interested in <b> Machine Learning, Artificial Intelligence, IoT, Robotics, Automation </b>
+- 👀 I’m interested in <b> exploring new technologies in ML, AI, IoT, Robotics, Automation, Technologies. </b>
 - 🌱 I’m currently learning <b> Artificial Intelligence & Machine Learning, IOT, Robotics.</b>
 - 💞️ I’m looking to collaborate on <b> AI, ML & Robotics related projects. </b> 
 - 📫 How to reach me, <b>  ashwini.abhang1905@gmail.com </b> 
